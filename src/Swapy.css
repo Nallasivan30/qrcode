@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    width:80%;
+    align-items: center;
+    justify-content: center;
+    
+}
+/* .section-1{
+    width: 20% ;
+    border:1px solid  rgb(75, 74, 74);
+
+}
+.section-2 {
+    width: 35%;
+    border: 1px solid rgb(75, 74, 74);
+
+}
+.section-3 {
+    width: 25%;
+    border: 1px solid rgb(75, 74, 74);
+
+} */
